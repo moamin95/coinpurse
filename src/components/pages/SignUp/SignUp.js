@@ -7,6 +7,7 @@ function SignUp() {
   return (
     <>
       <HeroSection {...homeObjOne} />
+
       <HeroSection {...homeObjThree} />
     </>
   );
